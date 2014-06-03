@@ -1,0 +1,8 @@
+#calendar {
+  width: 50%;
+  margin: auto;
+}
+
+.booked {
+  background-color: red;
+}
